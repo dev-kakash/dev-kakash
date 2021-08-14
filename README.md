@@ -1,7 +1,6 @@
-### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋
+### Hi there, I'm Akash - aka [website][https://www.facebook.com/atikasifkhan.akash.3] 👋
 
-[![Website](https://kakash.netlify.app/)](https://kakash.netlify.app/)
-[![LinkedIn Follow](https://img.shields.io/facebook/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://www.linkedin.com/in/md-atik-asif-khan-akash-a70070206/)
+
 
 ## A computer science student and Machine Learning enthusiast,passionate about programming and design.!!
 
