@@ -1,9 +1,10 @@
-### Hi there, I'm Akash -[https://www.facebook.com/atikasifkhan.akash.3] 👋
-###Website:- [https://kakash.netlify.app/]
+## Hi there, I'm Akash👋
+### -[https://kakash.netlify.app/]
 
 
 
-## A computer science student and Machine Learning enthusiast,passionate about programming and design.!!
+
+### A computer science student and Machine Learning enthusiast,passionate about programming and design.!!
 
 - 🔭 I’m currently learning advance React.Js, Python, Django concept
 - 🌱 I’m proficient at html,css,javascript,react,python.
