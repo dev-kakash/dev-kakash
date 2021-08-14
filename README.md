@@ -1,21 +1,20 @@
-### Hi there, I'm Akash - aka [website][https://www.facebook.com/atikasifkhan.akash.3] 👋
+### Hi there, I'm Akash -[https://www.facebook.com/atikasifkhan.akash.3] 👋
+###Website:- [https://kakash.netlify.app/]
 
 
 
 ## A computer science student and Machine Learning enthusiast,passionate about programming and design.!!
 
 - 🔭 I’m currently learning advance React.Js, Python, Django concept
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m proficient at html,css,javascript,react,python.
 - 👯 I’m looking for a role where I can grow and learn from other experienced team members in Frontend web development.
 - 🥅 2021 Goals: Learn TypeScript,GraphQL,gatsby and many more
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- ⚡ Fun fact: I love to travel and eat.
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][https://www.facebook.com/atikasifkhan.akash.3]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="akash" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][https://www.facebook.com/atikasifkhan.akash.3]
+
 
 <br />
 
