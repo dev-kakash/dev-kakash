@@ -1,5 +1,5 @@
 ## Hi there, I'm Akash👋
-Visit : [https://kakash.netlify.app/]
+
 
 
 
@@ -13,9 +13,8 @@ Visit : [https://kakash.netlify.app/]
 - ⚡ Fun fact: I love to travel and eat.
 
 ### Connect with me:
+### https://kakash.netlify.app
 
-<img align="left" alt="akash" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
-### ww.facebook.com/atikasifkhan.akash.3
 
 
 <br />
