@@ -1,5 +1,5 @@
 ## Hi there, I'm Akash👋
-### -[https://kakash.netlify.app/]
+Visit : [https://kakash.netlify.app/]
 
 
 
@@ -14,7 +14,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="akash" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][https://www.facebook.com/atikasifkhan.akash.3]
+<img align="left" alt="akash" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
+### ww.facebook.com/atikasifkhan.akash.3
 
 
 <br />
@@ -35,5 +36,4 @@
 
 <br />
 <br />
-
 ---
