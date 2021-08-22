@@ -12,7 +12,7 @@
 - 🥅 2021-22 Goals: Learn TypeScript,GraphQL,gatsby and many more
 - ⚡ Fun fact: I love to travel and eat.
 
-### Connect with me:
+
 ### https://kakash.netlify.app
 
 
