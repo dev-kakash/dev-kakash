@@ -9,7 +9,7 @@
 - 🔭 I’m currently learning advance React.Js, Python, Django concept
 - 🌱 I’m proficient at html,css,javascript,react,python.
 - 👯 I’m looking for a role where I can grow and learn from other experienced team members in Frontend web development.
-- 🥅 2021 Goals: Learn TypeScript,GraphQL,gatsby and many more
+- 🥅 2021-22 Goals: Learn TypeScript,GraphQL,gatsby and many more
 - ⚡ Fun fact: I love to travel and eat.
 
 ### Connect with me:
