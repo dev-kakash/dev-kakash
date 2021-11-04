@@ -30,7 +30,7 @@
 <br/>
 
 
-### live project
+### live projects
 1. CryptoCurrency App: https://kakash-cryptoverse.netlify.app/
 2. Contact app (CURD) :https://kakash-contactapp.netlify.app/
 3. Blog Site with Login: https://kakash-blog-app.netlify.app/
