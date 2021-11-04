@@ -1,9 +1,5 @@
 ## Hi there, I'm Akash👋
 
-
-
-
-
 ### A computer science student and Machine Learning enthusiast,passionate about programming and design.!!
 
 - 🔭 I’m currently learning advance React.Js, Python, Express,node
@@ -14,9 +10,6 @@
 
 
 ### https://kakash.netlify.app
-
-
-
 
 ### Languages and Tools:
 
@@ -35,5 +28,13 @@
 
 <br />
 <br/>
+##live project
+
+1. CryptoCurrency App: https://kakash-cryptoverse.netlify.app/
+2. Contact app (CURD) :https://kakash-contactapp.netlify.app/
+3. Blog Site with Login: https://kakash-blog-app.netlify.app/
+4. Corona Tracker App: https://kakash-covid-tracker.netlify.app/
+5. Travel Website App: https://kakash-travelapp.netlify.app/
+6. Personal Portfolio: https://kakash.netlify.app/
 
 ---
