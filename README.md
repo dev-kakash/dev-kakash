@@ -2,7 +2,7 @@
 
 ### A computer science student and Machine Learning enthusiast,passionate about programming and design.!!
 
-- 🔭 I’m currently learning advance React.Js, Python, Express,node
+- 🔭 I’m currently learning advance React.Js, Python, Express,Node
 - 🌱 I’m proficient at html,css,javascript,react,python.
 - 👯 I’m looking for a role where I can grow and learn from other experienced team members in Frontend web development.
 - 🥅 2021-22 Goals: Learn TypeScript,GraphQL,gatsby and many more
